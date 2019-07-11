@@ -1,0 +1,403 @@
+Report on Cell Clusters
+Cell Cluster:
+Cell Type Percentages:
+B cells              0.000000
+CD14+ Monocytes      0.842756
+CD4 T cells          0.007067
+CD8 T cells          0.000000
+Dendritic cells      0.000000
+FCGR3A+ Monocytes    0.141343
+Megakaryocytes       0.008834
+NK cells             0.000000
+            weight
+gene              
+C15orf48  0.007945
+TYMP      0.006641
+S100A8    0.006511
+SOD2      0.005922
+CTSB      0.004682
+S100A9    0.004463
+CD14      0.004418
+IER3      0.004388
+IL8       0.004271
+PLAUR     0.004259
+S100A10   0.004197
+LGALS3    0.004172
+ANXA5     0.004008
+MARCKSL1  0.003995
+
+
+
+
+Cell Cluster:
+Cell Type Percentages:
+B cells              0.002559
+CD14+ Monocytes      0.001280
+CD4 T cells          0.962892
+CD8 T cells          0.019834
+Dendritic cells      0.000640
+FCGR3A+ Monocytes    0.000640
+Megakaryocytes       0.011516
+NK cells             0.000640
+            weight
+gene              
+ANXA1     0.059004
+CREM      0.042607
+TRAT1     0.037798
+GPR183    0.036797
+C15orf48 -0.036647
+ARID5B    0.034229
+SELL     -0.033251
+CCR7     -0.032361
+CD2       0.032314
+TYMP     -0.030933
+S100A8   -0.028534
+SESN3     0.025499
+PLAUR    -0.023209
+RGS1      0.022547
+CST3     -0.021996
+IL8      -0.021838
+S100A11   0.021334
+PIK3IP1  -0.020914
+ALOX5AP   0.020492
+GIMAP1   -0.019068
+LBH      -0.018518
+UBB      -0.018317
+IER3     -0.018130
+S100A10  -0.018054
+ANXA5    -0.017473
+S100A9   -0.017381
+PIK3R1    0.017060
+
+
+
+
+Cell Cluster:
+Cell Type Percentages:
+B cells              0.000791
+CD14+ Monocytes      0.000395
+CD4 T cells          0.988533
+CD8 T cells          0.001977
+Dendritic cells      0.000395
+FCGR3A+ Monocytes    0.000395
+Megakaryocytes       0.007513
+NK cells             0.000000
+            weight
+gene              
+CCR7      0.045143
+SELL      0.041562
+CCL5     -0.039873
+ANXA1    -0.035476
+NKG7     -0.034224
+LEF1      0.031709
+GNLY     -0.028305
+CST7     -0.027850
+CD3D      0.027106
+GIMAP1    0.026303
+GZMB     -0.025864
+CD3G      0.024710
+LBH       0.024651
+CREM     -0.023564
+LTB       0.023490
+TRAT1    -0.021908
+ALOX5AP  -0.019000
+DUSP2    -0.018811
+PIK3IP1   0.017494
+APOBEC3G -0.017025
+DDIT4    -0.016008
+S100A11  -0.015099
+CXCR3    -0.015035
+HLA-DPB1 -0.014876
+YPEL5    -0.014825
+ARID5B   -0.014448
+
+
+
+
+Cell Cluster:
+Cell Type Percentages:
+B cells              0.000000
+CD14+ Monocytes      0.000794
+CD4 T cells          0.977778
+CD8 T cells          0.005556
+Dendritic cells      0.000000
+FCGR3A+ Monocytes    0.000000
+Megakaryocytes       0.014286
+NK cells             0.001587
+           weight
+gene             
+CD79A   -0.014295
+CD3D     0.012228
+LTB      0.011830
+SOD2    -0.011064
+TYMP    -0.009830
+HERPUD1 -0.009758
+
+
+
+
+Cell Cluster:
+Cell Type Percentages:
+B cells              0.918382
+CD14+ Monocytes      0.011356
+CD4 T cells          0.037615
+CD8 T cells          0.012775
+Dendritic cells      0.003549
+FCGR3A+ Monocytes    0.003549
+Megakaryocytes       0.010646
+NK cells             0.002129
+            weight
+gene              
+CD79A     0.045544
+HLA-DPA1  0.024962
+MS4A1     0.024710
+HLA-DPB1  0.019601
+HLA-DQA1  0.019118
+CD83      0.019063
+HLA-DQB1  0.018130
+ANXA1    -0.016689
+CD79B     0.016035
+HERPUD1   0.015735
+S100A11  -0.015718
+CD3D     -0.015259
+ID3       0.014180
+CHPT1     0.012283
+CD2      -0.011975
+HLA-DMA   0.011593
+CST7     -0.010683
+CCR7      0.009680
+
+
+
+
+Cell Cluster:
+Cell Type Percentages:
+B cells              0.000000
+CD14+ Monocytes      0.959777
+CD4 T cells          0.002607
+CD8 T cells          0.000000
+Dendritic cells      0.001490
+FCGR3A+ Monocytes    0.029050
+Megakaryocytes       0.006704
+NK cells             0.000372
+            weight
+gene              
+S100A8    0.035169
+CTSB      0.026315
+S100A9    0.024767
+VMO1     -0.021100
+IL8       0.020498
+C15orf48  0.019899
+CTSC     -0.018475
+IER3      0.018349
+CD14      0.017356
+S100A10   0.016481
+FCGR3A   -0.016376
+THBS1     0.016368
+CCL2      0.016092
+TNFSF10  -0.015760
+ADA      -0.015375
+MARCKSL1  0.014738
+TYMP      0.014699
+LGALS3    0.014386
+GPX1      0.014050
+ANXA5     0.012645
+CTSL      0.011611
+FGL2     -0.011067
+LYZ       0.010979
+CXCL3     0.010887
+PLAC8    -0.010843
+IFITM3   -0.010593
+MS4A7    -0.010551
+
+
+
+
+Cell Cluster:
+Cell Type Percentages:
+B cells              0.000000
+CD14+ Monocytes      0.010196
+CD4 T cells          0.011765
+CD8 T cells          0.202353
+Dendritic cells      0.000000
+FCGR3A+ Monocytes    0.001569
+Megakaryocytes       0.003137
+NK cells             0.770980
+            weight
+gene              
+GNLY      0.027580
+NKG7      0.020347
+CD3D     -0.019905
+CLIC3     0.013857
+GZMB      0.011516
+UBB       0.010764
+CTSW      0.010488
+CCL5      0.009809
+CD7       0.008481
+CST7      0.008327
+LTB      -0.008307
+CD3G     -0.007850
+ID2       0.007760
+HLA-DPA1 -0.007686
+HLA-DPB1 -0.007648
+
+
+
+
+Cell Cluster:
+Cell Type Percentages:
+B cells              0.000729
+CD14+ Monocytes      0.002188
+CD4 T cells          0.172137
+CD8 T cells          0.780452
+Dendritic cells      0.000000
+FCGR3A+ Monocytes    0.000000
+Megakaryocytes       0.004376
+NK cells             0.040117
+            weight
+gene              
+CCL5      0.042709
+NKG7      0.035674
+CST7      0.031255
+APOBEC3G  0.022695
+DUSP2     0.022682
+CD8A      0.020546
+LTB      -0.015788
+GZMB      0.015356
+CXCR3     0.015006
+CCR7     -0.015004
+CD79A    -0.014329
+OASL      0.013632
+GZMH      0.012027
+CD3D      0.010732
+GNLY      0.010547
+JUNB     -0.009539
+
+
+
+
+Cell Cluster:
+Cell Type Percentages:
+B cells              0.000000
+CD14+ Monocytes      0.217907
+CD4 T cells          0.002157
+CD8 T cells          0.000000
+Dendritic cells      0.003236
+FCGR3A+ Monocytes    0.773463
+Megakaryocytes       0.002157
+NK cells             0.001079
+            weight
+gene              
+FCGR3A    0.051724
+MS4A7     0.040973
+IFITM3    0.034087
+VMO1      0.034064
+SOD2      0.033946
+TYMP      0.032311
+AIF1      0.030232
+ADA       0.030140
+C15orf48  0.028229
+PLAUR     0.027514
+TNFSF10   0.026349
+CST3      0.024663
+CTSC      0.021390
+APOBEC3A  0.020992
+GLUL      0.018415
+S100A11   0.017137
+FGL2      0.017122
+FAM26F    0.016148
+TNFSF13B  0.015558
+C3AR1     0.015461
+CFD       0.015171
+CD83      0.014752
+ANXA5     0.014741
+PNRC1     0.013998
+LGALS3    0.013454
+HLA-DPA1  0.013304
+GBP1      0.013179
+MAFB      0.012087
+GPR183   -0.010985
+
+
+
+
+Cell Cluster:
+Cell Type Percentages:
+B cells              0.012632
+CD14+ Monocytes      0.021053
+CD4 T cells          0.896842
+CD8 T cells          0.025263
+Dendritic cells      0.004211
+FCGR3A+ Monocytes    0.006316
+Megakaryocytes       0.031579
+NK cells             0.002105
+            weight
+gene              
+SRSF2     0.009110
+DNAJB6    0.008543
+HSPH1     0.007952
+UBB       0.007240
+SRSF7     0.007035
+HSPB1     0.006857
+YPEL5     0.006585
+HSPA8     0.006325
+S100A11  -0.006134
+NFKBIA    0.005933
+HSPE1     0.005695
+CD3D     -0.005600
+CACYBP    0.005509
+TCP1      0.005438
+RSRC2     0.005176
+HSP90AA1  0.004935
+OSER1     0.004825
+
+
+
+
+Cell Cluster:
+Cell Type Percentages:
+B cells              0.004785
+CD14+ Monocytes      0.129187
+CD4 T cells          0.000000
+CD8 T cells          0.000000
+Dendritic cells      0.813397
+FCGR3A+ Monocytes    0.052632
+Megakaryocytes       0.000000
+NK cells             0.000000
+            weight
+gene              
+HLA-DQA1  0.006391
+LYZ       0.005992
+HLA-DMA   0.005118
+CST3      0.004869
+HLA-DPB1  0.004603
+HLA-DPA1  0.004562
+HLA-DQB1  0.004308
+DAPP1     0.003055
+S100A10   0.003044
+TXN       0.003000
+MARCKSL1  0.002892
+CCR7      0.002732
+C15orf48  0.002671
+CST7      0.002630
+
+
+
+
+Cell Cluster:
+Cell Type Percentages:
+B cells              0.696498
+CD14+ Monocytes      0.023346
+CD4 T cells          0.042802
+CD8 T cells          0.031128
+Dendritic cells      0.151751
+FCGR3A+ Monocytes    0.015564
+Megakaryocytes       0.031128
+NK cells             0.007782
+            weight
+gene              
+HLA-DQA1  0.002827
+
+
+
+
